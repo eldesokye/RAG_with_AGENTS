@@ -1,0 +1,1 @@
+API_URL = "http://127.0.0.1:8000"  ## i will change this to the actual URL of the backend server when I deploy it
