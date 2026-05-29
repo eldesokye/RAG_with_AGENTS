@@ -396,6 +396,6 @@ If you found this project useful:
 
 GitHub: [https://github.com/eldesoky](https://github.com/eldesokye)
 
-LinkedIn: [https://linkedin.com/in/hisham-el-desoky-440586263/]((https://www.linkedin.com/in/hisham-el-desoky-440586263/))
+LinkedIn: [[https://github.com/eldesoky](https://www.linkedin.com/in/hisham-el-desoky-440586263/)]([https://github.com/eldesokye](https://www.linkedin.com/in/hisham-el-desoky-440586263/))
 
 Email: [hishameldesoky111@gmail.com](mailto:hishameldesoky111@gmail.com)
