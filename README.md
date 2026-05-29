@@ -394,8 +394,8 @@ If you found this project useful:
 
 # 📬 Contact
 
-GitHub: [https://github.com/yourusername](https://github.com/eldesokye)
+GitHub: [https://github.com/eldesoky](https://github.com/eldesokye)
 
-LinkedIn: [https://linkedin.com/in/yourprofile]((https://www.linkedin.com/in/hisham-el-desoky-440586263/))
+LinkedIn: [https://linkedin.com/in/hisham-el-desoky-440586263/]((https://www.linkedin.com/in/hisham-el-desoky-440586263/))
 
-Email: [your-email@example.com](mailto:hishameldesoky111@gmail.com)
+Email: [hishameldesoky111@gmail.com](mailto:hishameldesoky111@gmail.com)
